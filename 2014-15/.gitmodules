@@ -1,0 +1,3 @@
+[submodule "sklearn_scipy2013"]
+	path = sklearn_scipy2013
+	url = https://github.com/jakevdp/sklearn_scipy2013.git

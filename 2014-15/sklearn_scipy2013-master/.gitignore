@@ -1,0 +1,13 @@
+*~
+*.pyc
+*.npy
+*.npz
+notebooks/figures/downloads/
+*.ipynb_checkpoints
+*.mmap
+*.pkl
+datasets
+joblib
+
+.DS_Store
+*.zip

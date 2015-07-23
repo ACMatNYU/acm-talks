@@ -1,0 +1,14 @@
+Resources for learning C:
+Awesome Lecture on Pointers - Richard Buckland: http://www.youtube.com/watch?v=Rxvv9krECNw
+
+C Reference Card: http://www.digilife.be/quickreferences/QRC/C%20Reference%20Card%20%28ANSI%29%202.2.pdf
+
+C for java programmers: http://www.cprogramming.com/java/c-and-c++-for-java-programmers.html
+
+Java to C: http://www.comp.lancs.ac.uk/~ss/java2c/alldiffs
+
+C Strings: http://www.cprogramming.com/tutorial/c/lesson9.html
+
+
+
+

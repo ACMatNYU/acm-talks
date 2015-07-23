@@ -1,0 +1,11 @@
+SCIKIT-LEARN
+http://scikit-learn.org/stable/
+http://scikit-learn.org/stable/install.html
+
+IPYTHON:
+Notebook viewer: http://nbviewer.ipython.org/
+http://ipython.org/
+
+TUTORIALS:
+https://github.com/0ddfell0w/sklearn_scipy2013
+https://www.youtube.com/watch?v=r4bRUvvlaBw
